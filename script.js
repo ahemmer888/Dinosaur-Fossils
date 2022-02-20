@@ -50,8 +50,6 @@ function getDiet(name) {
   }
   return ("This input does not match any of the Dinosaur names logged.");
 }
-console.log(getDiet("Hebetoxyites hebes"));
-console.log("_______")
 
 
 //Finds the dinosaur that is all the deisgnated requirements: "fast-moving", "well-developed", and not a "carnivore"
@@ -87,8 +85,6 @@ function getPlace(countries, regions) {
   }
   return ("This input does not have any corresponding dinosaurs OR the input is not valid.");
 }
-console.log(getPlace("UnIted States", "Alaska"));
-console.log("_____");
 
 
 //Finds the difference in the maximum and minimum ages of an inputted dinosaur, how precise the scientists estamation of when the fossils age, larger number has more uncertainty of age versus a smaller has less uncertainty (margin of error)
@@ -107,8 +103,6 @@ function getDifOfYears(name) {
   }
   return ("This input does not match any of the Dinosaur names logged.");
 }
-console.log(getDifOfYears("Cadoceras bathomphalum"));
-console.log("_____");
 
 
 
