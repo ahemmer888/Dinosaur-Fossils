@@ -14,7 +14,7 @@ The following functions can be used to find out interesting and useful informati
 #
 
 ##### Finds the dinosaur that is all the deisgnated requirements: "fast-moving", "well-developed", and not a "carnivore"
-###### @return {string} - the dinosaur name that fits the requirements
+###### @return {string} - the dinosaur name that fits the requirements (only one name outputted (could make a fun fact))
 **`function getBestDinoNonCarn()`**
 #
 
