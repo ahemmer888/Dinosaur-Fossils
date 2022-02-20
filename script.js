@@ -25,9 +25,6 @@ function getDinoAvgAge(name) {
   }
   return ("This input does not match any of the Dinosaur names logged.")
 }
-console.log(getDinoAvgAge("Pseudolioceras costistriatum"));
-console.log("______");
-
 
 //Finds whether an inputted dinosaur name is a carnivore or not
 //name {string} - the name of a dinosaur, which checks if the name inputted matches that on the dinoName dinoList
@@ -58,7 +55,7 @@ console.log("_______")
 
 
 //Finds the dinosaur that is all the deisgnated requirements: "fast-moving", "well-developed", and not a "carnivore"
-//return {string} - the dinosaur name that fits the requirements  
+//return {string} - the dinosaur name that fits the requirements (only one name outputted (could make a fun fact))
 function getBestDinoNonCarn() {
   var bestDino = [];
   for (var i in motility) {
