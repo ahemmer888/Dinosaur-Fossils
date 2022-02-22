@@ -1,6 +1,6 @@
 id,Species,Maximum Age,Minimum Age,Year Found,Phylum,Class,Order,Family,Genus,Motility,Vision,Diet,Latitude,Longitude,Country,Region
 1,Cadoceras bathomphalum,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,herbivore,57.26,-156.66,United States,Alaska
-2,Cadoceras kialagvikense,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,herbivore,57.26,-156.66,United States,Alaska
+2,Cadoceras kialagvikense,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,non-carnivore,57.26,-156.66,United States,Alaska
 3,Cadoceras (Stenocadoceras) stenoloboide,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Stenocadoceras,fast-moving,well-developed,carnivore,57.26,-156.66,United States,Alaska
 4,Cadoceras glabrum,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.37,-156.49,United States,Alaska
 5,Lilloettia stantoni,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Sphaeroceratidae,Lilloettia,fast-moving,well-developed,carnivore,57.37,-156.49,United States,Alaska
