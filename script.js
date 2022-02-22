@@ -26,6 +26,7 @@ function getDinoAvgAge(name) {
   return ("This input does not match any of the Dinosaur names logged.")
 }
 
+
 //Finds whether an inputted dinosaur name is a carnivore or not
 //name {string} - the name of a dinosaur, which checks if the name inputted matches that on the dinoName dinoList
 //return {string} - a phrase indicating whether the dinosaur is a carnivore or not, or a phrase saying the input does not match any of the Dinosaurs logged
@@ -63,8 +64,6 @@ function getBestDinoNonCarn() {
   }
   return (bestDino);
 }
-console.log(getBestDinoNonCarn());
-console.log("_____");
 
 
 //Finds all dinosaurs that were discovered in a specific Country and Region inputted
