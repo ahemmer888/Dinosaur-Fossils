@@ -28,5 +28,5 @@ The following functions can be used to find out interesting and useful informati
 ##### Finds the difference in the maximum and minimum ages of an inputted dinosaur, how precise the scientists estamation of when the fossils age, larger number has more uncertainty of age versus a smaller has less uncertainty (margin of error)
 ###### @param name {string} - the name of a dinosaur, which checks if the name inputted matches that on the dinoName dinoList
 ###### @return {number} - the differnce between the maximum and minimum ages inputted as a number
-**`function getDifOfYears`**
+**`function getDifOfYears(name)`**
 #
